@@ -1,16 +1,21 @@
-# task2
+# E-Commerce App
 
-A new Flutter project.
+This Flutter project is a simple e-commerce mobile application built as part of a task requirement.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+The application allows users to browse a list of products, view product details, and interact with basic shopping features such as categories, search bar, and product cards. The UI is clean and responsive, designed with Flutter widgets.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Product Grid View
+- Search Bar
+- Categories Filter
+- Bottom Navigation Bar
+- Splash Screen, Onboarding, Login, and Signup Screens
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Task Information
+This app was created as part of a required task to demonstrate UI design and Flutter fundamentals.
+
+If you need any help running or reviewing the project, feel free to reach out.
+
